@@ -1,5 +1,7 @@
 A game to find micro:bits running the [proximity-beacon](https://adamcohenrose.github.io/proximity-beacon/) code. Needs a micro:bit v2 or an attached speaker, such as the mini:mu gloves.
 
+----
+
 > Open this page at [https://adamcohenrose.github.io/proximity-beacon-finder/](https://adamcohenrose.github.io/proximity-beacon-finder/)
 
 ## Use as Extension
